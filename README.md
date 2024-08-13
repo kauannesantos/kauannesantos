@@ -1,6 +1,6 @@
-### Boas vidas ao meu perfil 💗
+### Boas vidas ao meu perfil! 💗
 
-Meu nome é Kauanne Santos
+Meu nome é Kauanne Santos.
 
 - Estou estudando na [Alura](https://www.alura.cpm.br)
 - Estou me desenvolvendo na linguagem JavaScript
